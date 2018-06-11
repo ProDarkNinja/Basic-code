@@ -1,0 +1,6 @@
+print("I am a bot maker")
+x = the_number_of_bots_made
+the_number_of_bots_made = 12*bots_every_mounth
+bots_every_mounth = 2*used_ones
+used_ones = -2
+print x
